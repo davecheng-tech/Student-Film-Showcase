@@ -12,7 +12,7 @@ These student projects reflect years of collaboration, experimentation, and stor
 - [Notes on Production](#notes-on-production)
 - [About the Educator](#about-the-educator)
 
-## Fiction Films
+## Narrative Films
 
 - **Confined** (2024, [YouTube](https://youtu.be/U4kjsyqy8ZY))  
   *Directed by Namdar Veisi & Michal Pylnow*  
