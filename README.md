@@ -2,6 +2,8 @@
 
 A curated collection of short films created by students in the TGV3M / TGV4M Film & Television Production courses during my tenure at St. Elizabeth CHS in Thornhill, Ontario, Canada.
 
+![banner image](banner.jpg)
+
 These student projects reflect years of collaboration, experimentation, and storytelling -- from character-driven fiction to observational cinéma vérité documentaries. Some films went on to win awards at the [Vaughan Film Festival](https://www.vaughanfilmfestival.com/). All demonstrate the creativity and dedication of young filmmakers finding their voice.
 
 ## Table of Contents
