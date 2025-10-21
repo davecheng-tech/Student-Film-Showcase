@@ -2,7 +2,10 @@
 
 A curated collection of short films created by students in the TGV3M / TGV4M Film & Television Production courses during my tenure at St. Elizabeth CHS in Thornhill, Ontario, Canada.
 
-![banner image](banner.jpg)
+<p align="center">
+  <img src="banner.jpg" alt="Chiaroscuro"><br>
+  <sub><em>*From **Chiaroscuro** (2022) by Daniel Fusco*</em></sub>
+</p>
 
 These student projects reflect years of collaboration, experimentation, and storytelling -- from character-driven fiction to observational cinéma vérité documentaries. Some films went on to win awards at the [Vaughan Film Festival](https://www.vaughanfilmfestival.com/). All demonstrate the creativity and dedication of young filmmakers finding their voice.
 
