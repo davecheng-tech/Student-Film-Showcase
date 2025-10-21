@@ -7,7 +7,7 @@ A curated collection of short films created by students in the TGV3M / TGV4M Fil
 These student projects reflect years of collaboration, experimentation, and storytelling -- from character-driven fiction to observational cinéma vérité documentaries. Some films went on to win awards at the [Vaughan Film Festival](https://www.vaughanfilmfestival.com/). All demonstrate the creativity and dedication of young filmmakers finding their voice.
 
 ## Table of Contents
-- [Fiction Films](#fiction-films)
+- [Narrative Films](#narrative-films)
 - [Documentary Films](#documentary-films)
 - [Notes on Production](#notes-on-production)
 - [About the Educator](#about-the-educator)
