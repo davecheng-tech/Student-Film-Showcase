@@ -7,7 +7,7 @@ A curated collection of short films created by students in the TGV3M / TGV4M Fil
   <sub><em>From Chiaroscuro (2022) by Daniel Fusco</em></sub>
 </p>
 
-These student projects reflect years of collaboration, experimentation, and storytelling -- from character-driven fiction to observational cinéma vérité documentaries. Some films went on to win awards at the [Vaughan Film Festival](https://www.vaughanfilmfestival.com/). All demonstrate the creativity and dedication of young filmmakers finding their voice.
+These student projects reflect years of collaboration, experimentation, and storytelling -- from character-driven fiction to observational documentaries. Some films went on to win awards at the [Vaughan Film Festival](https://www.vaughanfilmfestival.com/). All films demonstrate the creativity and dedication of young filmmakers finding their voice.
 
 ## Table of Contents
 - [Narrative Films](#narrative-films)
@@ -98,12 +98,12 @@ These student projects reflect years of collaboration, experimentation, and stor
 
 ## Notes on Production
 
-**Fiction Films** – Students wrote, directed, acted in, and produced their own short films as part of the TGV3M and TGV4M Film & Television Production courses. Some projects went on to screen at the [Vaughan Film Festival](https://www.vaughanfilmfestival.com/), with several earning the honour of *Best Student Film*.
+**Narrative Films** – Student written, directed, acted, and produced. All part of the TGV3M and TGV4M Film & Television Production courses. Some projects went on to screen at the [Vaughan Film Festival](https://www.vaughanfilmfestival.com/), with several earning the honour — and prizes! — of *Best Student Film*.
 
-**Documentaries** – Students created slice-of-life, *cinéma vérité*–style short documentaries. Though most incorporated interviews, emphasis was placed on **observational storytelling**, in which visual footage drives the narrative rather than serving simply as background b-roll.
+**Documentaries** – Students created slice-of-life, *cinéma vérité*–style short documentaries. Though on-camera interviews were often unavoidable, emphasis was placed on **observational storytelling**, in which visual footage drives the narrative rather than serving simply as background b-roll.
 
 ## About the Educator
 
-These films were produced under my direction while teaching Communications Technology at St. Elizabeth CHS over the better part of two decades. Each project belongs fully to the students who wrote, shot, and edited them. My role was to help them find stories worth telling and the technical confidence to bring them to life.
+These films were produced under my direction while teaching Communications Technology at St. Elizabeth CHS over the better part of two decades. Each project belongs fully to the students who wrote, shot, and edited them. My role was only to help them **find stories worth telling** and the **technical confidence** to bring them to life.
 
 Though I'm primarily a Computer Science and Technology teacher these days, I still love talking about film, editing, and visual storytelling. If you’re a teacher hoping to strengthen your program, or a student interested in production, feel free to [reach out](mailto:dave.cheng@ycdsb.ca). I’m always happy to share resources, gear advice, or ideas.
