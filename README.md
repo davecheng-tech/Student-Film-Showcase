@@ -98,12 +98,16 @@ These student projects reflect years of collaboration, experimentation, and stor
 
 ## Notes on Production
 
-**Narrative Films** – Student written, directed, acted, and produced. All part of the TGV3M and TGV4M Film & Television Production courses. Some projects went on to screen at the [Vaughan Film Festival](https://www.vaughanfilmfestival.com/), with several earning the honour — and prizes! — of *Best Student Film*.
+**Narrative Films** – Student written, directed, acted, and produced as part of the TGV3M and TGV4M Film & Television Production courses. Many projects went on to screen at the [Vaughan Film Festival](https://www.vaughanfilmfestival.com/), with several earning the honour of *Best Student Film*.
 
 **Documentaries** – Students created slice-of-life, *cinéma vérité*–style short documentaries. Though on-camera interviews were often unavoidable, emphasis was placed on **observational storytelling**, in which visual footage drives the narrative rather than serving simply as background b-roll.
 
 ## About the Educator
 
-These films were produced under my direction while teaching Communications Technology at St. Elizabeth CHS over the better part of two decades. Each project belongs fully to the students who wrote, shot, and edited them. My role was only to help them **find stories worth telling** and the **technical confidence** to bring them to life.
+I'm [Dave Cheng](https://davecheng.com/), a technology educator and photographer based in Toronto, Ontario, Canada.
 
-Though I'm primarily a Computer Science and Technology teacher these days, I still love talking about film, editing, and visual storytelling. If you’re a teacher hoping to strengthen your program, or a student interested in production, feel free to [reach out](mailto:dave.cheng@ycdsb.ca). I’m always happy to share resources, gear advice, or ideas.
+The films presented here were produced under my direction while teaching Communications Technology at St. Elizabeth CHS over the better part of two decades. Each project belongs fully to the students who wrote, shot, and edited them. My role was only to help them **find stories worth telling** and give them the **technical confidence** to bring them to life.
+
+These days, I've moved onto teaching in other areas such as Computer Science and Technology, but I still love talking about film, technical production, and visual storytelling. 
+
+If you’re a teacher hoping to strengthen your program, or a student interested in production, feel free to [reach out](mailto:dave.cheng@ycdsb.ca). I’m always happy to share resources, techniques, gear advice, or ideas.
