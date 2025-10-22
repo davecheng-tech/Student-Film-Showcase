@@ -7,7 +7,7 @@ A curated collection of short films created by students in the TGV3M / TGV4M Fil
   <sub><em>From Chiaroscuro (2022) by Daniel Fusco</em></sub>
 </p>
 
-These student projects reflect years of collaboration, experimentation, and storytelling -- from character-driven fiction to observational documentaries. Some films went on to win awards at the [Vaughan Film Festival](https://www.vaughanfilmfestival.com/). All films demonstrate the creativity and dedication of young filmmakers finding their voice.
+These student projects reflect years of collaboration, experimentation, and storytelling — from character-driven fictional narratives to observational documentaries. Some films went on to win awards at the [Vaughan Film Festival](https://www.vaughanfilmfestival.com/). All films demonstrate the creativity and dedication of young filmmakers finding their voice.
 
 ## Table of Contents
 - [Narrative Films](#narrative-films)
