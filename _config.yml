@@ -1,1 +1,17 @@
+title: false
+description: false
 theme: null
+markdown: GFM
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
