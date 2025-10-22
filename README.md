@@ -86,11 +86,11 @@ These student projects reflect years of collaboration, experimentation, and stor
 
 - **Practice & Repeat** (2017, [YouTube](https://youtu.be/cXvQPPpbffg))  
   *Directed by Kora Farley-Smith & Sofia Vacca*  
-  Canadian national team player Sarah reveals the dedication and routine it takes to compete at the highest level.  
+  Sarah, a Canadian national soccer team player, reveals the dedication and routine it takes to compete at the highest level.  
 
 - **The Married Life** (2012, [YouTube](https://youtu.be/cOTAx53zxbM))  
   *Directed by Jessica Catarra*  
-  Lino discovers joy in the quiet routines and small struggles that make up married life.  
+  A suburban family man discovers joy in the quiet routines and small struggles that make up married life.  
 
 - **When I Was Young** (2012, [YouTube](https://youtu.be/p0yFK6g3T3E))  
   *Directed by Nancy Merocchi*  
